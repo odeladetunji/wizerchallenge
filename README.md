@@ -22,4 +22,7 @@ The application will be started on port 8080
 You can change the port in application.properties file if that port is already in use
 paste.
 
+#Api Collection
+>> https://documenter.getpostman.com/view/2630186/UVC8E6WQ
 
+click the link above for both docs and collection.
