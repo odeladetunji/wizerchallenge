@@ -27,4 +27,4 @@ paste.
 
 click the link above for both docs and collection.
 
->> Note: I used H2 embeded DB.
+>> Note: I used H2 in memory DB. changes will not be persisted once the application is shutdown.
