@@ -26,3 +26,5 @@ paste.
 >> https://documenter.getpostman.com/view/2630186/UVC8E6WQ
 
 click the link above for both docs and collection.
+
+>> Note: I used H2 embeded DB.
