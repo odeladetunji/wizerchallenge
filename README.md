@@ -9,13 +9,13 @@ Navigate to the root directory of the project
 
 Run the following
 
-mvn clean install
+>> mvn clean install
 
 A target file will be generated.
 Contained in it is a jar file
 
 Run the jar file
-java -jar WizerChallenge-1.0-SNAPSHOT.jar 
+>> java -jar WizerChallenge-1.0-SNAPSHOT.jar 
 
 The application will be started on port 8080
 
